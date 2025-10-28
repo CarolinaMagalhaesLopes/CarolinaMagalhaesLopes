@@ -1,4 +1,4 @@
-<img align="right" height="160" src="https://i.pinimg.com/originals/86/3a/3e/863a3ebd95e86e0920d92d861f57f22f.gif">
+<img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzR4aWVxbGV4bGd1aG43a3Q0ZHIwczk1NjVpODQxbjR2bWFyb255cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif">
 
 # 💜 Olá! Eu sou a Carol 👋✨
 
@@ -54,6 +54,6 @@
   
 ✨ _“A tecnologia transforma o mundo — e eu quero transformar junto com ela!”_ ✨
 
-<img src="https://i.pinimg.com/originals/29/0e/c9/290ec9d5acb59d7e7527d45a6b67c76d.gif" width="300px">
+<img height="240" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3lrZmRkMHA5emV5MDU0OHI2bmVzcWYzNW1iYmh1MXRlY3ZlaGhicCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7bufnE7gx4d4VWxq/giphy.gif">
 
 </div>
