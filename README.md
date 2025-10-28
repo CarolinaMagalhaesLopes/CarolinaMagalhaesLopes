@@ -50,10 +50,3 @@
 </div>
 
 
-<div align="center">
-  
-✨ _“A tecnologia transforma o mundo — e eu quero transformar junto com ela!”_ ✨
-
-<img height="240" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3lrZmRkMHA5emV5MDU0OHI2bmVzcWYzNW1iYmh1MXRlY3ZlaGhicCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7bufnE7gx4d4VWxq/giphy.gif">
-
-</div>
